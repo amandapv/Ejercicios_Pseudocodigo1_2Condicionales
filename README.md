@@ -1,0 +1,1 @@
+# Ejercicios_Pseudocodigo1_2Condicionales
